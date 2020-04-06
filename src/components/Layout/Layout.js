@@ -1,5 +1,5 @@
 import React from 'react'
-import Wrapper from '../../hoc/Wrapper';
+import Wrapper from '../../high-order-components/Wrapper';
 import classes from './Layout.module.css';
 
 const layout = props => (
